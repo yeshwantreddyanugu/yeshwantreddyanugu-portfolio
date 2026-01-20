@@ -37,7 +37,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=500&h=300&fit=crop",
       tech: ["Next.js", "TypeScript", "Tailwind Css"],
       liveUrl: "#",
-      githubUrl: "https://github.com/yeshwantreddyanugu/yeshwantreddyanugu-portfolio"
+      githubUrl: "https://github.com/yeshwantreddyanugu/yeshwantreddyanugu-portfolio/"
     },
     {
       title: "Azarts.com E-commerce Platform",
@@ -45,7 +45,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tech: ["React Native", "Expo", "Stripe/Razorpay", "Tailwind CSS"],
       liveUrl: "https://azarts.com",
-      githubUrl: "https://azarts.com"
+      githubUrl: "https://github.com/yeshwantreddyanugu/yeshwantreddyanugu-portfolio/"
     }
     ,
     {
